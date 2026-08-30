@@ -8,12 +8,12 @@
 
 ### 🚀 About Me
 
-I'm a **[Your Role / Specialty, e.g., Full Stack Developer / Software Engineer]** passionate about building efficient, scalable, and visually engaging solutions. I love exploring new technologies and contributing to open-source projects.
+I'm a **Full Stack Developer** passionate about building efficient, scalable, and visually engaging solutions. I love exploring new technologies and contributing to open-source projects.
 
-- 🔭 **Currently working on:** [Project name or main focus]
-- 🌱 **Currently learning:** [Technology, framework, or concept]
-- 💬 **Ask me about:** [Your strongest skills, e.g., JavaScript, Python, Backend]
-- ⚡ **Fun fact:** [A hobby or interesting personal fact]
+- 🔭 **Currently working on:** Laicu
+- 🌱 **Currently learning:** software engineering
+- 💬 **Ask me about:** Designing project development maps, implementing them, and improving them with stakeholder feedback using an agile approach
+- ⚡ **Fun fact:** China 🍜
 
 ---
 
